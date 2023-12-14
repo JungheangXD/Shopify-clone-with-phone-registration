@@ -1,0 +1,1 @@
+Just a head up, When you use the phone number registeration, it will automatically click verify for you when you finish filling your phone number and you will be directed to OTP confirmation. I preset the OTP to '1234'. 
